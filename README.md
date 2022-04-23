@@ -15,7 +15,7 @@ deve responder: “Está quente”.
 - O sistema deve permitir ao jogador cinco rodadas e depois
 encerrar.
 ###### Em caso de errar um número da lista
-O sistema deve permitir que o jogador possa continuar ou encerrar o
+- O sistema deve permitir que o jogador possa continuar ou encerrar o
 jogo.
 # Guessing Game in Java
 THIS PROGRAM WAS CREATED FOR A COLLEGE ACTIVITY
@@ -34,5 +34,5 @@ must answer “Está quente”.
 - The system should allow the player five rounds and then
 close.
 ###### In case of wrong number in the list
-The system should allow the player to continue or end the
+- The system should allow the player to continue or end the
 match.
