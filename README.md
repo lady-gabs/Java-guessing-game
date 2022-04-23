@@ -1,5 +1,5 @@
 # Jogo de Advinhação em Java
-ESTE PROGRAMA FOI CRIADO PARA UMA ATIVIDADE DA FACULDADE
+**ESTE PROGRAMA FOI CRIADO PARA UMA ATIVIDADE DA FACULDADE**</br></br>
 O programa simula um jogo de advinhação entre vários jogadores que cria uma lista de 100 números inteiros com números aleatórios. Ele permite que 
 o jogador digite um número inteiro e verificar se o mesmo está contido na lista gerada.
 ## Observações
@@ -18,7 +18,7 @@ encerrar.
 - O sistema deve permitir que o jogador possa continuar ou encerrar o
 jogo.
 # Guessing Game in Java
-THIS PROGRAM WAS CREATED FOR A COLLEGE ACTIVITY
+**THIS PROGRAM WAS CREATED FOR A COLLEGE ACTIVITY**</br></br>
 The program simulates a multi-player guessing game that creates a list of 100 integers with random numbers. It allows
 the player enter an integer and verify that it is contained in the generated list.
 ## Comments
