@@ -21,7 +21,7 @@ jogo.
 **THIS PROGRAM WAS CREATED FOR A COLLEGE ACTIVITY**</br></br>
 The program simulates a multi-player guessing game that creates a list of 100 integers with random numbers. It allows
 the player enter an integer and verify that it is contained in the generated list.
-## Comments
+## Notice
 ###### In case of hitting a number in the list
 - The system should ask the player for the number of occurrences of this
 number in the list;</br>
